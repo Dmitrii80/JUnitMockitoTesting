@@ -1,0 +1,17 @@
+# folder
+.idea/*
+out/*
+target/*
+
+# files
+encode.txt
+mockito_learn.iml
+src/main/java/Main.java
+
+# class files
+*.class
+
+# package
+*.war
+*.jar
+*.ear
